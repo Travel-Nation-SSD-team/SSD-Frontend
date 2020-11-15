@@ -1,0 +1,161 @@
+.card-register {
+  background-color: #ff8f5e;
+  border-radius: 8px;
+  color: #fff;
+  max-width: 700px;
+  margin: 20px -90px 120px;
+  min-height: 400px;
+  padding: 30px;
+
+  & label {
+    margin-top: 15px;
+  }
+  & .card-title {
+    color: #b33c12;
+    text-align: center;
+  }
+  & .btn {
+    margin-top: 30px;
+  }
+  & .forgot {
+    text-align: center;
+  }
+
+  .input-group-text {
+    border: 1px solid $white-color;
+  }
+}
+.card-login {
+  background-color: #ff8f5e;
+  border-radius: 8px;
+  color: #fff;
+  max-width: 350px;
+  margin: 20px 0px 50px;
+  min-height: 400px;
+  padding: 30px;
+
+  & label {
+    margin-top: 15px;
+  }
+  & .card-title {
+    color: #b33c12;
+    text-align: center;
+  }
+  & .btn {
+    margin-top: 30px;
+  }
+  & .forgot {
+    text-align: center;
+  }
+
+  .input-group-text {
+    border: 1px solid $white-color;
+  }
+}
+.list-group-item {
+  width: 800px;
+  margin-left: 170px;
+  color: grey;
+}
+.title {
+  color: white;
+}
+.labeltext {
+  color: white;
+}
+.list-group-package {
+  width: 1350px;
+  height: 400px;
+  margin-left: -130px;
+  color: grey;
+  background-color: black;
+  border-color: grey;
+  border-radius: 10px;
+}
+.package-img {
+  width: 500px;
+  height: 300px;
+  margin-left: 280px;
+  margin-top: -20px;
+  border-radius: 10px;
+}
+.labelpackageprice {
+  color: white;
+  margin-left: 100px;
+  margin-top: 15px;
+}
+.labelpackageparticipants {
+  color: white;
+  margin-left: 150px;
+}
+.labelpackageDays {
+  color: white;
+  margin-left: 80px;
+  margin-bottom: -30px;
+}
+.labelpackagename {
+  color: white;
+  margin-left: -730px;
+  margin-top: 50px;
+}
+.labelpackagedescription {
+  color: grey;
+  margin-left: 50px;
+  margin-top: 20px;
+  max-width: 400px;
+}
+.labelbooking {
+  color: white;
+  margin-left: 50px;
+  margin-top: -50px;
+}
+.inputbooking {
+  margin-right: -300px;
+}
+.list-group-feedback {
+  width: 750px;
+  height: 200px;
+  margin-left: 190px;
+  color: grey;
+  background-color: black;
+  border-color: grey;
+  border-radius: 10px;
+}
+.labelfeedbackuser {
+  color: white;
+  margin-left: -650px;
+  margin-top: 20px;
+  text-align: left;
+}
+.labelfeedbackrating {
+  color: white;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+.labelfeedbackname {
+  color: white;
+  margin-left: -100px;
+  margin-top: 20px;
+}
+.labelfeedbackcomment {
+  color: white;
+  margin-left: -10px;
+  margin-top: 10px;
+  max-width: 500px;
+}
+.labelanswer {
+  max-width: 700px;
+  color: white;
+}
+.labelinquiry {
+  color: white;
+}
+.list-group-inquiry {
+  width: 750px;
+  height: 250px;
+  margin-left: 190px;
+  color: grey;
+  background-color: black;
+  border-color: grey;
+  border-radius: 10px;
+}
