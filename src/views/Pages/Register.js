@@ -16,7 +16,7 @@ import {
 } from "reactstrap";
 
 // core components
-import IndexNavbar from "components/Navbars/ExamplesNavbar.js";
+import IndexNavbar from "components/Navbars/IndexNavbar.js";
 
 function Register() {
   const [error, setError] = useState(null);
