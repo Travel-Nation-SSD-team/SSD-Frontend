@@ -191,7 +191,7 @@ function Packages() {
             <Container key={booking.booking_id}>
               <div className="list-group">
                 <a className="list-group-item">
-                  <b>Bookung status - {booking.booking_confirmation}</b>
+                  <b>Booking status - {booking.booking_confirmation}</b>
                 </a>
               </div>
             </Container>
